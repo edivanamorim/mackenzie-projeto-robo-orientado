@@ -1,4 +1,4 @@
-# [NOME DA DISCIPLINA] X sem. 20XX
+# [NOME DA DISCIPLINA] X sem. 2018
 
 ## Turma XXX
 ## Projeto: "nome do projeto"
