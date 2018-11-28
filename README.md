@@ -4,7 +4,7 @@
 ## Projeto: "nome do projeto"
 ## Integrantes do grupo:
 
-* Aluno 1
+* Edivan Pereira Amorim
 * Aluno 2
 * Aluno 3
 * Aluno 4
