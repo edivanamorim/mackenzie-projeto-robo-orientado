@@ -13,7 +13,7 @@ Item                      | Valor
 5 [Resistores 10KOms](componentes/File-T--Technion_Israel-HardwarespecsResistors.pdf)       | R$3,50
 1 Bateria 9V              | R$10,00
 1 [Breadboard](componentes/Breadboard-roboromania.pdf)              | R$20,00
-1 Pacote de Jumpers       | R$10,00
+1 [Pacote de Jumpers](_imagens/jumpers.jpg)       | R$10,00
 1 Pacote de Solda         | R$4,90
 2 Interruptor Liga/Desliga| R$3,60
 2 [Socket p/ 4 pilhas](componentes/Suporte-de-pilhas-suporta-4-pilhas-tamanho-AA.pdf)      | R$10,00
