@@ -5,7 +5,7 @@
 ## Integrantes do grupo:
 
 * Edivan Amorim - TIA: 41882091
-* Paolo Filipi - TIA: 
+* Paolo Filipi - TIA: 41880171
 * Pedro Vilela - TIA: 41825810
 * Vinicius Sigolin - TIA: 41819861
 
