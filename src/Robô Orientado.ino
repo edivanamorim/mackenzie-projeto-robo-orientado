@@ -44,7 +44,7 @@ int valorLDRDireito;
   //Serial.println(valorLDRDireito);
 
 //padrão de luminosidade
-int luzAmbiente = 700;
+int luzAmbiente = 750;
 
 //acionando o buzzer
 if (valorLDREsquerdo > luzAmbiente || valorLDRCentro > luzAmbiente || valorLDRDireito > luzAmbiente) {
