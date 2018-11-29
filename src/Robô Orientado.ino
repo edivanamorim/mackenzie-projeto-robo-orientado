@@ -43,7 +43,7 @@ int valorLDRDireito;
   valorLDRDireito = analogRead(A2);
   //Serial.println(valorLDRDireito);
 
-//padrão de luminosidade
+//padrão de luminosidade no meu caso (você pode alterálo de acordo com o padrão de luminosidade do seu ambiente)
 int luzAmbiente = 750;
 
 //acionando o buzzer
