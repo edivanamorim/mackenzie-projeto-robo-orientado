@@ -4,9 +4,9 @@
 ## Projeto: "Robô Orientado"
 ## Integrantes do grupo:
 
-* Edivan Amorim - TIA: 41882091
-* Paolo Filipi - TIA: 41880171
-* Pedro Vilela - TIA: 41825810
+* Edivan Amorim    - TIA: 41882091
+* Paolo Filipi     - TIA: 41880171
+* Pedro Vilela     - TIA: 41825810
 * Vinicius Sigolin - TIA: 41819861
 
 ## Projeto com Arduíno:
