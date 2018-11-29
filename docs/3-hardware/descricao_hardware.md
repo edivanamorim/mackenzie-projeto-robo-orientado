@@ -27,7 +27,7 @@ Total                     | R$273,6
 ##* Diagramas
 
 #### Thinkercad
-![diagramas](diagramas/thinker-cad.png)
+![circuito](diagramas/Esquematico.jpg)
 Deve conter:
 
 1) Lista de Peças (descrição e imagens, quando disponíveis)
