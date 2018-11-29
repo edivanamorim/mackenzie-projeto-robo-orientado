@@ -7,9 +7,9 @@ Item                      | Valor
 --------------------------| -----
 1 [Arduino Uno](componentes/Arduino-uno.pdf)             | R$50,00
 1 Chassis (kit completo)  | R$50,00
-2 [Motores DC](componentes/KIT-MOTOR-DC 3-6V -RODA-68MM.pdf)              | R$50,00
+2 [Motores DC](componentes/KIT-MOTOR-DC-3-6V-RODA-68MM.pdf)              | R$50,00
 1 [Módulo Ponte H](componentes/ponte-H-dupla-baseado-no-chip-L298N.pdf)          | R$24,00
-5 Sensores LDR            | R$15,00
+5 [Sensores LDR](componentes/LDR.pdf)            | R$15,00
 5 [Resistores 10KOms](componentes/File-T--Technion_Israel-HardwarespecsResistors.pdf)       | R$3,50
 1 Bateria 9V              | R$10,00
 1 [Breadboard](componentes/Breadboard-roboromania.pdf)              | R$20,00
@@ -22,10 +22,6 @@ Item                      | Valor
 1 [BUZZER-5V](componentes/BUZZER-5V-COM-OSCILADOR-INTERNO.pdf)               | R$4,00
 --------------------------|---------
 Total                     | R$273,6
-
-
-
-
 
 
 Deve conter:
