@@ -14,3 +14,8 @@
 Um robô orientado que segue uma determinada fonte de luz que esteja acima da luz ambiente. Através sensores que implantaremos, o robô identificará essa fonte de luz e passará a segui-la.
 
 _______________________________________
+Obs:
+
+[`/src`](https://github.com/edivanamorim/mackenzie-projeto-robo-orientado/tree/master/src) Contém os códigos desenvolvidos
+
+[`/docs`](https://github.com/edivanamorim/mackenzie-projeto-robo-orientado/tree/master/docs) Contém a documentação do projeto
