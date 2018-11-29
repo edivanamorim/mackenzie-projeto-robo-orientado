@@ -24,10 +24,16 @@ Item                      | Valor
 Total                     | R$273,6
 
 
-##* Diagramas
+
 
 #### Thinkercad
-![circuito](diagramas/Esquematico.jpg)
+![circuito](diagramas/thinker-cad.png)
+
+
+
+#### Esquemático
+![esquema](diagramas/Esquematico.jpg)
+
 Deve conter:
 
 1) Lista de Peças (descrição e imagens, quando disponíveis)
