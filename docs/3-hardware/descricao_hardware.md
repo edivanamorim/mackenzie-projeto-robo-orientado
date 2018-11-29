@@ -1,6 +1,6 @@
 # Descriçao do Hardware
 
-## Lista de Peças
+## Relação de Peças
 
 
 Item                      | Valor
@@ -25,7 +25,7 @@ Total                     | R$273,6
 
 
 
-## Thinkercad
+## Diagrama de montagem - Thinkercad
 ![Circuito](_imagens/thinker-cad.jpeg)
 
 
@@ -34,7 +34,7 @@ Total                     | R$273,6
 
 
 
-## Esquemático
+## Diagrama Esquemático - Fritzing
 ![](_imagens/Esquematico.png)
 
 
