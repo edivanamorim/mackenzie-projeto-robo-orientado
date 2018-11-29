@@ -25,13 +25,12 @@ Total                     | R$273,6
 
 
 
-
-#### Thinkercad
+## Thinkercad
 ![circuito](diagramas/thinker-cad.png)
 
 
 
-#### Esquemático
+## Esquemático
 ![esquema](diagramas/Esquematico.jpg)
 
 Deve conter:
