@@ -21,7 +21,7 @@ Item                      | Valor
 1 [Cabo Arduíno/Bateria 9V](_imagens/caa-0091-5750dad22dff52686c15124448980242-1024-1024.png) | R$4,60
 1 [Buzzer Ativo 5V](componentes/BUZZER-5V-COM-OSCILADOR-INTERNO.pdf)               | R$4,00
 --------------------------|---------
-Total                     | R$273,6
+Total                     | R$266,20
 
 
 
