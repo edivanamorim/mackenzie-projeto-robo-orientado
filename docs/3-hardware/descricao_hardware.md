@@ -25,7 +25,7 @@ Total                     | R$266,20
 
 
 
-## Diagrama de montagem - Thinkercad
+## Diagrama de Montagem - Thinkercad
 ![Circuito](_imagens/thinker-cad.jpeg)
 
 
