@@ -11,7 +11,7 @@
 
 ## Projeto com Arduíno:
 
-Um robô orientado que segue uma determinada fonte de luz que esteja acima da luz ambiente. Através sensores que implantaremos, o robô identificará essa fonte de luz e passará a segui-la.
+Um robô orientado que segue determinada fonte de luz que esteja acima da luz ambiente. Através de sensores de luminosidade que implantaremos, o robô identificará essa fonte de luz e passará a segui-la.
 
 _______________________________________
 Obs:
