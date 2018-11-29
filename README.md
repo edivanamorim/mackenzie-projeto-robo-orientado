@@ -14,7 +14,3 @@
 Um robô orientado que segue uma determinada fonte de luz que esteja acima da luz ambiente. Através sensores que implantaremos, o robô identificará essa fonte de luz e passará a segui-la.
 
 _______________________________________
-Obs:
-
-`src/` deve conter os códigos desenvolvidos
-`doc/` documentação do projeto
