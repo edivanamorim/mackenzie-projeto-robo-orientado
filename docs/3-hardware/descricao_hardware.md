@@ -31,7 +31,7 @@ Total                     | R$273,6
 
 
 ## Esquemático
-![](diagramas/Esquematico.jpg)
+![](_imagens/Esquematico.png)
 
 Deve conter:
 
