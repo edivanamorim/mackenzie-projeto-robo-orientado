@@ -1,4 +1,4 @@
-﻿# Descrição do Processo de Montagem do projeto
+﻿# Descrição do Processo de Montagem do Projeto
 
 Para entendermos a construção e implementação do código no projeto, criamos um breve passo-a-passo por etapas, de maneira simples e objetiva:
 
