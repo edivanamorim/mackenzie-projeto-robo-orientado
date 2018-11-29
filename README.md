@@ -9,7 +9,7 @@
 * Pedro Vilela     - TIA: 41825810
 * Vinicius Sigolin - TIA: 41819861
 
-## Projeto com Arduíno:
+## Projeto com Arduino:
 
 Um robô orientado que segue determinada fonte de luz que esteja acima da luz ambiente. Através de sensores de luminosidade que implantaremos, o robô identificará essa fonte de luz e passará a segui-la.
 
