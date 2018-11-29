@@ -1,6 +1,6 @@
 # Descriçao do Hardware
 
-Lista de Peças
+##Lista de Peças
 
 
 Item                      | Valor
@@ -19,7 +19,7 @@ Item                      | Valor
 2 Socket p/ 4 pilhas      | R$10,00
 1 Cabo Arduíno/Bateria 9V | R$4,60
 2 Pacotes c/4 pilhas cada | R$14,00
---------------------------|
+--------------------------|---------
 Total                     | R$269,6
 
 
