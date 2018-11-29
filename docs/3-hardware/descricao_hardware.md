@@ -16,7 +16,7 @@ Item                      | Valor
 1 Pacote de Jumpers       | R$10,00
 1 Pacote de Solda         | R$4,90
 2 Interruptor Liga/Desliga| R$3,60
-2 [Socket p/ 4 pilhas](componentes/Suporte de pilhas suporta 4 pilhas tamanho AA.pdf)      | R$10,00
+2 [Socket p/ 4 pilhas](componentes/Suporte-de-pilhas-suporta-4-pilhas-tamanho-AA.pdf)      | R$10,00
 1 Cabo Arduíno/Bateria 9V | R$4,60
 2 Pacotes c/4 pilhas cada | R$14,00
 1 [BUZZER-5V](componentes/BUZZER-5V-COM-OSCILADOR-INTERNO.pdf)               | R$4,00
