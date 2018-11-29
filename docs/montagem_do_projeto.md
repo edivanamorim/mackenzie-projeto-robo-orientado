@@ -45,3 +45,6 @@ Por fim, prendemos os sensores de luminosidade LDR na parte da frente do carrinh
 
 ## Sensores de luminosidade LDR devidamente ajustados
 ![](3-hardware/_imagens/7.jpg)
+
+## Restaram dúvidas?
+Caso possua alguma dúvida, você poderá assistir a este vídeo, onde o projeto muda um pouco, no entanto a montagem do circuito é idêntica: https://youtu.be/61M7Mg7KP6k
