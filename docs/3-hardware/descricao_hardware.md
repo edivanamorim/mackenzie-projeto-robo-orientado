@@ -26,7 +26,7 @@ Total                     | R$266,20
 
 ## Onde comprar?
 Você encontra todos esses componentes em lojas online ou físicas, especializadas em componentes eletrônicos e Arduino. Em nosso caso, compramos as peças na loja Arduino Santa Efigênia: 
-http://www.arduinosantaefigenia.com.br/
+http://www.arduinosantaefigenia.com.br
 
 
 ## Diagrama de Montagem - Thinkercad
