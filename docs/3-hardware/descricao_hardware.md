@@ -5,7 +5,7 @@
 
 Item                      | Valor
 --------------------------| -----
-1 Arduino Uno             | R$50,00
+1 [Arduino Uno](componentes/Arduino-uno.pdf)             | R$50,00
 1 Chassis (kit completo)  | R$50,00
 2 Motores DC              | R$50,00
 1 Módulo Ponte H          | R$24,00
