@@ -1,6 +1,6 @@
 # Descriçao do Hardware
 
-## Lista de Peças
+##* Lista de Peças
 
 
 Item                      | Valor
@@ -24,6 +24,10 @@ Item                      | Valor
 Total                     | R$273,6
 
 
+##* Diagramas
+
+#### Thinkercad
+![Circuito](diagramas/thinker-cad.png)
 Deve conter:
 
 1) Lista de Peças (descrição e imagens, quando disponíveis)
