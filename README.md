@@ -1,21 +1,20 @@
-# [NOME DA DISCIPLINA] X sem. 2018
+# [CIRCUITOS ELÉTRICOS E ELETRÔNICOS] 1° sem. 2018
 
-## Turma XXX
-## Projeto: "nome do projeto"
+## Turma 01N11
+## Projeto: "Robô Orientado"
 ## Integrantes do grupo:
 
-* Edivan Pereira Amorim
-* Aluno 2
-* Aluno 3
-* Aluno 4
+* Edivan Amorim - TIA: 41882091
+* Paolo Filipi - TIA: 
+* Pedro Vilela - TIA: 41825810
+* Vinicius Sigolin - TIA: 41819861
 
-## Descrição resumida do projeto
+## Projeto com Arduíno:
 
-Descreva resumidamente o projeto aqui.
+Um robô orientado que segue uma determinada fonte de luz que esteja acima da luz ambiente. Através sensores que implantaremos, o robô identificará essa fonte de luz e passará a segui-la.
 
 _______________________________________
 Obs:
 
 `src/` deve conter os códigos desenvolvidos
-
 `doc/` documentação do projeto
