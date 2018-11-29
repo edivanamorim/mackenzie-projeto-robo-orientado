@@ -26,7 +26,7 @@ Total                     | R$273,6
 
 
 ## Thinkercad
-![](diagramas/thinker-cad.png)
+![Circuito](_imagens/bateria-9v.jpg)
 
 
 
