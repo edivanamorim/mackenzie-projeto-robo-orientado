@@ -18,8 +18,9 @@ Item                      | Valor
 2 Interruptor Liga/Desliga| R$3,60
 2 Socket p/ 4 pilhas      | R$10,00
 1 Cabo Arduíno/Bateria 9V | R$4,60
-
-
+2 Pacotes c/4 pilhas cada | R$14,00
+--------------------------|
+Total                     | R$269,6
 
 
 
