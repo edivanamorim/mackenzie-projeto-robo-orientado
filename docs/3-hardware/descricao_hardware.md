@@ -1,5 +1,20 @@
 # Descriçao do Hardware
 
+Lista de Peças
+
+
+Item          | Valor
+--------------| -----
+1 Arduino Uno | $1600
+Phone         | $12
+Pipe          | $1
+
+
+
+
+
+
+
 Deve conter:
 
 1) Lista de Peças (descrição e imagens, quando disponíveis)
